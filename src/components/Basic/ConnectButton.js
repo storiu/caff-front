@@ -301,7 +301,7 @@ function ConnectButton() {
             <>
               <div className="flex flex-column align-center just-center header-content">
                 <img src={logoImg} alt="logo" className="logo-image" />
-                <p className="title">Connect to start using Venus</p>
+                <p className="title">Connect to start using MIDeFI</p>
               </div>
               <div className="connect-wallet-content">
                 <div className="flex align-center just-between metamask-connect-btn coming-soon">
@@ -361,7 +361,7 @@ function ConnectButton() {
                 </div>
               </div>
               <p className="center terms-of-use">
-                <span>By connecting, I accept Venus&lsquo;s</span>
+                <span>By connecting, I accept MIDeFI&lsquo;s</span>
                 <a
                   href="https://www.swipe.io/terms"
                   target="_blank"

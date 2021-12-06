@@ -191,7 +191,7 @@ function VotingWallet({
           <p className="title">Voting Wallet</p>
         </div>
         <div className="flex flex-column content">
-          <p className="content-label">Venus Balance</p>
+          <p className="content-label">MIDeFI Balance</p>
           <div className="flex align-center just-between">
             <div className="flex align-center">
               <img src={coinImg} alt="coin" />
@@ -207,7 +207,7 @@ function VotingWallet({
           {!isLoadingEarn && (
             <div className="flex align-center just-between">
               <div className="flex flex-column">
-                <p className="content-label">Venus Earned</p>
+                <p className="content-label">MIDeFI Earned</p>
                 <div className="flex align-center">
                   <img src={coinImg} alt="coin" />
                   <p className="content-value">
@@ -272,8 +272,8 @@ function VotingWallet({
             <p className="setup-header">Setup Voting</p>
             <p className="setup-content">
               You can either vote on each proposal yourself or delegate your
-              votes to a third party. Venus Governance puts you in charge of the
-              future of Venus.
+              votes to a third party. MIDeFI Governance puts you in charge of the
+              future of MIDeFI.
               {/* <a href="/#">Learn more.</a> */}
             </p>
           </div>

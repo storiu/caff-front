@@ -216,7 +216,7 @@ function Faucet({ form, getFromFaucet }) {
     <MainLayout isHeader={false}>
       <div className="flex just-center align-center">
         <FaucetWrapper className="flex flex-column align-center just-center">
-          <p className="header">Venus Binance Smart Chain Faucet</p>
+          <p className="header">MIDeFI Binance Smart Chain Faucet</p>
           <Form className="forgot-pwd-form">
             <Form.Item>
               {getFieldDecorator('address', {

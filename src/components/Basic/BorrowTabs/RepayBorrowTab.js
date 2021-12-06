@@ -205,7 +205,7 @@ function RepayBorrowTab({ asset, settings, changeTab, onCancel, setSetting }) {
           <>
             <img src={asset.img} alt="asset" />
             <p className="center warning-label">
-              To Repay {asset.name} to the Venus Protocol, you need to enable it
+              To Repay {asset.name} to the MIDeFI Protocol, you need to enable it
               first.
             </p>
           </>

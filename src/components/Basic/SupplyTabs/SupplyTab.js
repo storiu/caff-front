@@ -197,7 +197,7 @@ function SupplyTab({ asset, changeTab, onCancel, setSetting }) {
           <>
             <img src={asset.img} alt="asset" />
             <p className="center warning-label">
-              To Supply {asset.name} to the Venus Protocol, you need to approve
+              To Supply {asset.name} to the MIDeFI Protocol, you need to approve
               it first.
             </p>
           </>

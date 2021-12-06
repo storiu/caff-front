@@ -100,7 +100,7 @@ function RepayVaiTab() {
           <>
             <img src={vaiImg} alt="asset" />
             <p className="center warning-label">
-              To repay VAI to the Venus Protocol, you need to approve it first.
+              To repay VAI to the MIDeFI Protocol, you need to approve it first.
             </p>
           </>
         )}
